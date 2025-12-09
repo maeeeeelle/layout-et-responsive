@@ -1,13 +1,15 @@
-.bootstrap {
-  color: #000;
-  font-family: Inter;
-  font-size: 40px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  gap: 50px;
-}
-.easy {
+#col {
+  background: #efcd51;
   display: flex;
-  gap: 20px;
+  height: 110px;
+  justify-content: center;
+  align-items: center;
+  color: #000;
+  font-family: "Inter";
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.container {
+  margin-bottom: 20px;
 }
